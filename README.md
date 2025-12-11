@@ -135,18 +135,6 @@ hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Weekly Coding Stats -->
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Weekly Coding Activity
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rajverma0895&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact" alt="Coding Stats"/>
-</div>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- GitHub Trophies -->
 <h2>
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> GitHub Trophies
@@ -158,7 +146,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
 
 <!-- Cyberpunk Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <!-- Connect With Me -->
