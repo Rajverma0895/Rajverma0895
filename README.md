@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 </h2>
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="AI/ML Animation" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 ```yaml
 name: Raj Verma
@@ -56,6 +56,11 @@ hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3p3dg15 qebpd&rid=giphy.gif" width="25"> Tech Stack
 </h2>
+
+<!-- AI Brain Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+</div>
 
 <div align="center">
 
@@ -130,6 +135,18 @@ hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Weekly Coding Stats -->
+<h2>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Weekly Coding Activity
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rajverma0895&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact" alt="Coding Stats"/>
+</div>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- GitHub Trophies -->
 <h2>
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> GitHub Trophies
@@ -139,8 +156,10 @@ hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
   <img src="https://github-profile-trophy.vercel.app/?username=Rajverma0895&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Raj's Trophies"/>
 </div>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Cyberpunk Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 <!-- Connect With Me -->
 <h2>
@@ -172,14 +191,20 @@ hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<!-- Snake Animation -->
+<!-- GitHub Contribution Snake -->
+<h2 align="center">
+  🐍 Contribution Snake
+</h2>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajverma0895/Rajverma0895/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajverma0895/Rajverma0895/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajverma0895/Rajverma0895/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<br>
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
